@@ -1,0 +1,46 @@
+[2026-04-05 17:09:00,955]: INFO: main: Logging is implemented
+[2026-04-07 11:49:29,963]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 11:49:29,972]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 11:51:10,144]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 11:51:10,147]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 11:51:23,819]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 11:51:23,823]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 11:52:24,167]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 11:52:24,171]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 18:00:16,223]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 18:00:16,223]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 18:00:22,800]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 18:00:22,803]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 18:04:17,326]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 18:04:17,328]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 18:04:32,058]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 18:04:32,059]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 18:09:02,287]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 18:09:02,289]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 18:09:02,291]: INFO: common: Created Directory at : artifacts
+[2026-04-07 18:09:02,293]: INFO: common: Created Directory at : artifacts/data_ingestion
+[2026-04-07 18:10:08,404]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 18:10:08,406]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 18:10:08,407]: INFO: common: Created Directory at : artifacts
+[2026-04-07 18:10:08,408]: INFO: common: Created Directory at : artifacts/data_ingestion
+[2026-04-07 18:10:10,714]: INFO: 94192749: File downloaded successfully: artifacts/data_ingestion/data.zip
+[2026-04-07 21:03:51,656]: INFO: main: Logging is implemented
+[2026-04-07 21:03:51,656]: INFO: main: stage Data Ingestion Stage started
+[2026-04-07 21:03:51,661]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 21:03:51,661]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 21:03:51,665]: INFO: common: Created Directory at : artifacts
+[2026-04-07 21:03:51,668]: INFO: common: Created Directory at : artifacts/data_ingestion
+[2026-04-07 21:07:32,500]: INFO: main: Logging is implemented
+[2026-04-07 21:07:32,500]: INFO: main: stage Data Ingestion Stage started
+[2026-04-07 21:07:32,502]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 21:07:32,503]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 21:07:32,503]: INFO: common: Created Directory at : artifacts
+[2026-04-07 21:07:32,503]: INFO: common: Created Directory at : artifacts/data_ingestion
+[2026-04-07 21:10:53,585]: INFO: main: Logging is implemented
+[2026-04-07 21:10:53,587]: INFO: main: stage Data Ingestion Stage started
+[2026-04-07 21:10:53,587]: INFO: common: yaml file: config\config.yaml loaded sucessfully
+[2026-04-07 21:10:53,587]: INFO: common: yaml file: params.yaml loaded sucessfully
+[2026-04-07 21:10:53,587]: INFO: common: Created Directory at : artifacts
+[2026-04-07 21:10:53,592]: INFO: common: Created Directory at : artifacts/data_ingestion
+[2026-04-07 21:10:55,554]: INFO: data_ingestion: File downloaded successfully: artifacts/data_ingestion/data.zip
+[2026-04-07 21:10:55,779]: INFO: main: stage Data Ingestion Stage completed
